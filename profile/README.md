@@ -4,9 +4,9 @@
 
 Nostr Development Kit (NDK) is a library that allows you to seamlessly build cross-platform Nostr applications without worrying about the internals.
 
-BDK is based on the powerful [`rust-nostr-sdk`](https://github.com/rust-nostr/nostr-sdk) and [`rust-nostr`](https://github.com/rust-nostr/nostr) libraries.
+NDK is based on the powerful [`rust-nostr`](https://github.com/rust-nostr/nostr) libraries.
 
-Learn the simplest way to integrate Nostr features into any application at [bitcoindevkit.org](https://ndkit.com/).
+Learn the simplest way to integrate Nostr features into any application at [ndkit.com](https://ndkit.com/).
 
 
 ### 😃 Join our community
