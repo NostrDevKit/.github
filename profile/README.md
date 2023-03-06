@@ -10,4 +10,4 @@ Learn the simplest way to integrate Nostr features into any application at [ndki
 
 
 ### 😃 Join our community
-Open source is fundamental to this project and we would love to connect with you. Feel free to make PRs or reach out to us on Nostr at 
+Open source is fundamental to this project and we would love to connect with you. Feel free to make PRs or reach out to us on Nostr at `npub1ndkltu98tr2eupgv5y367cck7kgj96d56vzmz40mxa25v68evv0qv6ffdn`.
